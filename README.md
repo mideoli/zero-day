@@ -1,1 +1,1 @@
-This is the first README file created in Vagrant
+This is the first README file
